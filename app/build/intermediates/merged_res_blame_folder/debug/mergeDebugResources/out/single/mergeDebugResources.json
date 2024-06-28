@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/layout_activity_on_signal.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/layout/activity_on_signal.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "mad.game105sports.onesignal.app-debug-4:/layout_activity_event_promotion.xml.flat",
+        "source": "mad.game105sports.onesignal.app-main-6:/layout/activity_event_promotion.xml"
+    }
+]

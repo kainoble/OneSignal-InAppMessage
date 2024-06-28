@@ -1,0 +1,2 @@
+mad.game105sports.onesignal.test:style/WhiteBackgroundTheme = 0x7f010001
+mad.game105sports.onesignal.test:style/WhiteBackgroundDialogTheme = 0x7f010000

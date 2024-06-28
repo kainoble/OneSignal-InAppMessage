@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OneSignal</string>
+    <string name="promotion_available_to_user">Promotion available to user</string>
+</resources>

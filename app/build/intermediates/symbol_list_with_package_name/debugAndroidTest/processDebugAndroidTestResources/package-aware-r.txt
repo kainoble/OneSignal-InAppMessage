@@ -1,0 +1,3 @@
+mad.game105sports.onesignal.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

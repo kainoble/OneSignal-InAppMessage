@@ -1,0 +1,6 @@
+mad.game105sports.onesignal.test.app-androidTest-0 C:\Users\fila\AndroidStudioProjects\Ongoing Project\OneSignal\app\build\generated\res\resValues\androidTest\debug
+mad.game105sports.onesignal.test.app-mergeDebugAndroidTestResources-1 C:\Users\fila\AndroidStudioProjects\Ongoing Project\OneSignal\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+mad.game105sports.onesignal.test.app-mergeDebugAndroidTestResources-2 C:\Users\fila\AndroidStudioProjects\Ongoing Project\OneSignal\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+mad.game105sports.onesignal.test.app-debugAndroidTest-3 C:\Users\fila\AndroidStudioProjects\Ongoing Project\OneSignal\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+mad.game105sports.onesignal.test.app-core-1.5.0-4 C:\Users\fila\AndroidStudioProjects\Ongoing Project\TCPlatform\gradle\caches\transforms-4\99bd9852315333b405949e5140d7c833\transformed\core-1.5.0\res
+mad.game105sports.onesignal.test.app-annotation-experimental-1.3.0-5 C:\Users\fila\AndroidStudioProjects\Ongoing Project\TCPlatform\gradle\caches\transforms-4\d66a3a5ee92a10f6e2c4fac26553271f\transformed\annotation-experimental-1.3.0\res

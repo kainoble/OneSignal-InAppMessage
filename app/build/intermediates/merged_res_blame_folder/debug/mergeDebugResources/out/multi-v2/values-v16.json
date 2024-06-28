@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "mad.game105sports.onesignal.app-mergeDebugResources-2:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fila\\AndroidStudioProjects\\Ongoing Project\\TCPlatform\\gradle\\caches\\transforms-4\\c46334e73dff3af2c8bbb45c313cbcc4\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\fila\\AndroidStudioProjects\\Ongoing Project\\TCPlatform\\gradle\\caches\\transforms-4\\6ce2462d12ea2a968cabf11a86fa0f1c\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

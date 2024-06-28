@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "mad.game105sports.onesignal.app-mergeDebugResources-2:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fila\\AndroidStudioProjects\\Ongoing Project\\TCPlatform\\gradle\\caches\\transforms-4\\c46334e73dff3af2c8bbb45c313cbcc4\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
